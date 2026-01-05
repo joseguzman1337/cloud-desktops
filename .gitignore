@@ -5,3 +5,6 @@ packer_cache
 # Entries below this point are managed by Please (DO NOT EDIT)
 plz-out
 .plzconfig.local
+# macOS system files
+.DS_Store
+._*
